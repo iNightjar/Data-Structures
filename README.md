@@ -1,6 +1,6 @@
-### Data-Structures Implementation
+### Data-Structures In Java
 
-````
+```
 
 - QuickSorting
 - UnsortedArray(insert, search, delete)
